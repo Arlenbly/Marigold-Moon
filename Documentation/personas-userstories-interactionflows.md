@@ -59,7 +59,6 @@ Post-condition: Kelly finds the information she needs about healing services
 5. Kelly reads the services info in the center of the page and gets the information she needs
 
 
-
 Name: Aleia Garcia
 
 Age: 35
@@ -111,18 +110,18 @@ Pre-condition: Laura would like to find a service that resonates with her, see h
 
 Post-condition: Laura has found a services that fits her needs and has booked it
 
-1. Jenna navigates to Marigold MoonHealing
+1. Laura navigates to Marigold MoonHealing
 2. Marigold Moon Healing presents a home page
-3. Jenna clicks on the white services button in the center of the blue navbar
+3. Laura clicks on the white services button in the center of the blue navbar
 4. Marigold Moon Healing displays the service page
-5. Jenna reads the services info in the center of the page
-6. Jenna clicks on the white book now button in the navbar
+5. Laura reads the services info in the center of the page
+6. Laura clicks on the white book now button in the navbar
 7. Marigold Moon Healing redirects to the booking site displaying the serves and their prices
-8. Jenna selects the service that she wants
+8. Laura selects the service that she wants
 9. The scheduling site shows a calendar and times available for the service
-10. Jenna finds a date and time that works for her and clicks it.
+10. Laura finds a date and time that works for her and clicks it.
 11. The scheduling site provides a questionnaire for Jenna to fill out prior to her appointment
-12. Jenna fills out the form and submits it
+12. Laura fills out the form and submits it
 13. The scheduling site emails Jenna with a confirmation
 
 
@@ -149,3 +148,29 @@ Post condition: Angelique found an event that work for her schedule and person n
 3. Angelique clicks the white mediations and events button to the right of the book now button in the middle of the navbar
 4. Marigold Moon Healing redirects Angelique to the meditations and events page on the booking site with upcoming events in the middle of the page
 5. Angelique finds an event that suits her and books a slot for it.
+
+
+Name: Forest Sanchez
+
+Age: 24
+
+Technology: Samsung galaxy s20, dell xps 18, Chrome browser, Instagram account, tiktok account. Casual user.
+
+Attitudes and behaviors: Interested in physics and where science meets spirituality. Newly interested in spirituality, but doesn't have a lot of experience in the subject, but enjoys reading for fun and learning new things. Restaurant server
+
+Frustrations and needs: Tired of working, overwhelmed and stressed with the current environment of the world. Wants to invest time into self-care, but is unsure on how or where to start.
+
+Goals: Forest wnats to find more information about spirituality and different self-care services intertwined with spirituality.
+
+User story: as a user Forest is looking for information about different indigenous healing practices.
+
+Pre-condition: Forest is trying to find information pertaining to different indigenous healing practices
+
+Post-condition: Forest has learned more about curanderismo.
+
+1. Forest navigates to Marigold Moon Healing
+2. Marigold Moon Healing presents it's home page
+3. Forest reads about curanderismo and the bio of the practitioner
+4. Forest clicks on the white services button in the center of the blue navbar
+5. Marigold Moon Healing displays the services page with in depth information about each of the services offered.
+6. Forest read through the services page
